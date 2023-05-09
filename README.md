@@ -1,5 +1,5 @@
 # Akan-Names Generator
-This web application `AKAN NAMES GENERATOR` has been developed to ease the mapping of a particular birth date to the exact day of the week. All that the user need to know is the year,date and date of birth.
+This web application `AKAN NAMES GENERATOR` has been developed to ease the mapping of a particular birth date to the exact day of the week. All that the user need to know is the Year,Month and Date of birth.
 
 ## Author
 
