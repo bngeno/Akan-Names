@@ -33,8 +33,8 @@ This name generator takes a user's birthday(year, month and date) and gender inf
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your Year,Month,Date  |   YYY,MM,DD |     |
-| Press Submit|     |Pop up Correct Akan name to match day of the week. Example Ama - Female born on a Saturday.|
+|  Enter Year,Month,Date  |   YYY,MM,DD |     |
+| Press Submit|     |Pop up "Correct Akan name to match day of the week. Example Ama - Female born on a Saturday."|
 
 ## Known Bugs
 * Know incompactibilty issue with some apple devices. 
