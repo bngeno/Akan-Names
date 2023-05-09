@@ -1,5 +1,5 @@
 # Akan-Names Generator
-This project features a generator that derives an Akan names with regard to the day of the week that a user was born and their gender.
+This web application `AKAN NAMES GENERATOR` has been developed to ease the mapping of a particular birth date to the exact day of the week. All that the user need to know is the DOB. Akan names is part of the Ghanaian culture.
 
 ## Author
 
