@@ -7,7 +7,7 @@ This web application `AKAN NAMES GENERATOR` has been developed to ease the mappi
 
 ## Description
 
-In many parts of Ghana, and elsewhere in West Africa, a person’s name is determined by the day of the week on which she/he was born.
+Akan names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana. A child's name is determined by factors surrounding his or her birth. For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender.
 <br>
 This name generator takes a user's birthday(year, month and date) and gender information, determines the day of the week on which they were born and derives an Akan name depending on their gender.
 
