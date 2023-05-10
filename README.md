@@ -12,7 +12,7 @@ Akan names come from a traditional naming system for people from countries such 
 This name generator takes a user's birthday(year, month and date) and gender information, determines the day of the week on which they were born and derives an Akan name depending on their gender.
 
 ## Live Page 
-//git@github.com:bngeno/Akan-names.git 
+//bngeno.github.io/Akan-Names/
 
 
 ## Installation / Setup instruction
